@@ -13,6 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Pride and Prejudice](ebook/009.pdf) – Jane Austen (1813)
 10. [The Great Gatsby](ebook/010.pdf) – F. Scott Fitzgerald (1925)
 11. [The Strange Case of Dr. Jekyl and Mr. Hyde](ebook/011.pdf) – Robert Louis Stevenson (1886)
-12. [Ringkasan Pemaparan Materi UGC](ebook/RingkasanUGC_Chayyara_168.pdf) - Chayyara Nadhifa P. S. (2026)
+12. [Ringkasan Pemaparan Materi UGC](ebook/PemaparanUGC_Chayyara_168.pdf) - Chayyara Nadhifa P. S. (2026)
 ---
 Powered by GitHub Pages
